@@ -1,0 +1,9 @@
+---
+- name: update system packages (Red Hat)
+  hosts: all
+  become: yes
+  tasks:
+    - name: update all packages (Red Hat-based)
+      yum:
+        name: '*'
+        state: latest
