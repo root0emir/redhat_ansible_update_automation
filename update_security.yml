@@ -1,0 +1,10 @@
+---
+- name: install security updates only (Red Hat)
+  hosts: all
+  become: yes
+  tasks:
+    - name: install security updates (Red Hat-based)
+      yum:
+        name: '*'
+        security: yes
+        state: latest
