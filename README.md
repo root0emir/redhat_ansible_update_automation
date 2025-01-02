@@ -1,5 +1,5 @@
 # redhat_ansible_update_otomasyon
-ansible kullanarak yaptıgım otomasyon projeleri 
+ansible kullanarak yaptıgım red hat otomasyon projeleri 
 
 -sistem güncellemeleri kontrol etme
 
