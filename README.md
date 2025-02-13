@@ -1,8 +1,9 @@
-# redhat_ansible_update_otomasyon
-ansible kullanarak yaptıgım red hat otomasyon projeleri 
+# Red Hat Enterprise Linux Update Automation
 
--sistem güncellemeleri kontrol etme
+my ansible projects
 
--sistemi güncelleme
+-checking for system updates
 
--sistem güvenlik güncellemeleri yapma
+-system update
+
+-Making system security updates
